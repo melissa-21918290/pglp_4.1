@@ -55,7 +55,13 @@ public enum Singleton {
 		Service.add(Equipe1);
 		Service.add(Equipe2);
 		
-	
+		Departement.add(chefDeService);
+		Departement.add(secretaire);
+		Departement.add(employe);
+		Departement.add(employe2);
+		Departement.add(chefDepartement);
+		Departement.add(chefEquipe);
+		Departement.add(Service);
 		
 		Departement.print();
 		
